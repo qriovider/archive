@@ -1,12 +1,12 @@
 menu:
 - {name: 'about', url: '/about'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'hobbies', url: '/hobbies'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 about:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Primary Investigator', title: 'Graduate student', department: 'Physics & Astronomy', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at].gmail.com', image: 'assets/img/picture3.jpg', url: 'primary-investigator'}
 
 courses:
 - {name: 'Applied Probability', url: 'applied-probability'}
