@@ -1,5 +1,5 @@
 ---
-layout: Hobbies
+layout: hobbies
 title: "Hobbies"
 ---
 
