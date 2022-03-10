@@ -1,0 +1,4 @@
+---
+layout: Hobbies
+title: "Hobbies"
+---
