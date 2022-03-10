@@ -6,9 +6,9 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 about:
-- {name: 'Primary Investigator', title: 'Graduate student', department: 'Physics & Astronomy', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at].gmail.com', image: 'assets/img/picture3.jpg', url: 'primary-investigator'}
+- {name: 'Primary Investigator', title: 'Graduate student', department: 'Policy & lanning Sciences', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at].gmail.com', image: 'assets/img/picture3.jpg', url: 'primary-investigator'}
 
-courses:
+hobbies:
 - {name: 'Applied Probability', url: 'applied-probability'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 
