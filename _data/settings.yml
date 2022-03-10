@@ -1,9 +1,9 @@
 menu:
-- {name: 'about', url: '/about'}
-- {name: 'publications', url: '/publications'}
-- {name: 'hobbies', url: '/hobbies'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'About', url: '/about'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Hobbies', url: '/hobbies'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
 
 about:
 - {name: 'Primary Investigator', title: 'Graduate student', department: 'Policy & Planning Sciences', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at].gmail.com', image: 'assets/img/picture3.jpg', url: 'primary-investigator'}
