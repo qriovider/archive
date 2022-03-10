@@ -9,7 +9,6 @@ University of Tsukuba - , Japan
 
 Email: kazuma.abe8[at]gmail.com
 
-Office: Science Building 505
 
 ---
 
