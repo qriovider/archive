@@ -2,4 +2,3 @@
 layout: about
 title: "About"
 ---
-
