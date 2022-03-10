@@ -11,6 +11,10 @@ about:
 hobbies:
 - {name: 'Applied Probability', url: 'applied-probability'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Soccer', url: 'soccer'}
+- {name: 'Marathon', url: 'marathon'}
+- {name: 'Music', url: 'music'}
+
 
 social:
 - {icon: 'github', link: 'https://github.com/qriovider'}
