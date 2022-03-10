@@ -9,8 +9,6 @@ about:
 - {name: 'Primary Investigator', title: 'Graduate student', department: 'Policy & Planning Sciences', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at].gmail.com', image: 'assets/img/picture3.jpg', url: 'primary-investigator'}
 
 hobbies:
-- {name: 'Applied Probability', url: 'applied-probability'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Soccer', url: 'soccer'}
 - {name: 'Marathon', url: 'marathon'}
 - {name: 'Music', url: 'music'}
