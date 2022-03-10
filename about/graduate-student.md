@@ -3,16 +3,12 @@ layout: page
 title: "Graduate Student"
 ---
 
-Researcher - Physics & Astronomy
+Master student - Applied probability & Stochastic processing networks
 
-Some University - 1 Main Street, Canada
+University of Tsukuba - 1-1-1, Tennouda, Japan
 
-Phone: (000) 000-0000
+Email: kazuma.abe8@gmail.com
 
-Email: hello@university.edu
-
-Office: Science Building 505
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
