@@ -1,8 +1,8 @@
 menu:
 - {name: 'About', url: '/about'}
 - {name: 'Publications', url: '/publications'}
-- {name: 'Hobbies', url: '/hobbies'}
 - {name: 'CV', url: '/cv'}
+- {name: 'Hobbies', url: '/hobbies'}
 - {name: 'Contact', url: '/contact'}
 
 about:
