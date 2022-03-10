@@ -3,7 +3,7 @@ layout: page
 title: "Lab Technician"
 ---
 
-Researcher - Physics & Astronomy
+Researcher - Applied probability & Stochastic processing networks 
 
 University of Tsukuba, 1-1-1, Tennoudai, Japan
 
