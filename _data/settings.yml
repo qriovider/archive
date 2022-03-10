@@ -15,7 +15,6 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/qriovider'}
 - {icon: 'twitter', link: 'https://twitter.com/washin27182818'}
-- 
 
 contacts:
 - {name: 'Kazuma Abe', title: 'Graduate Student', department: '', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at]gmail.com', image: 'assets/img/picture2.jpg'}
