@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Graduate student"
 ---
 
 Grsduate student - Applied probability & Stochastic processing networks
