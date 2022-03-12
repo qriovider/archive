@@ -2,4 +2,4 @@ url: "https://qriovider.github.io" # the base hostname & protocol for your site,
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Kazuma Abe's Homepage" # the name of your site, e.g. ACME Corp.
 description: "Welcome to my website!"
-google_analytics: G-VS1NCQ1CRL
+google_analytics: UA-222746188-1
