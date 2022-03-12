@@ -21,4 +21,4 @@ social:
 - {icon: 'spotify', link: 'https://open.spotify.com/user/31ufi47arbp6evtmwjgsg32dm6wm?si=d865d24290d442df'}
 
 contacts:
-- {name: 'Kazuma Abe', title: 'Graduate Student', department: '', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at]gmail.com', image: 'assets/img/picture2.jpg'}
+- {name: 'Kazuma Abe', title: 'Graduate student', department: '', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe8[at]gmail.com', image: 'assets/img/picture2.jpg'}
