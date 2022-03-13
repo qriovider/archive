@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Graduate Student"
+title: "Graduate student"
 ---
 
 Master student - Applied probability & Stochastic processing networks
