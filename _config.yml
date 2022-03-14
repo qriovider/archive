@@ -3,3 +3,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Kazuma Abe's Homepage" # the name of your site, e.g. ACME Corp.
 description: "Welcome to my website!"
 google_analytics: UA-222746188-1
+plugins:
+  - jekyll-polyglot
+languages: ['ja', 'en']
+default_lang: 'en'
+exclude_from_localization: ['javascript', 'images', 'css']
+parallel_localization: false
