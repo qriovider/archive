@@ -9,9 +9,9 @@ about:
 - {name: 'Graduate student', title: 'Graduate student', department: 'Policy & Planning Sciences', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe.spn[at].gmail.com', image: 'assets/img/picture3.jpg', url: 'graduate-student'}
 
 hobbies:
-- {name: 'Soccer', url: 'hobbies/soccer'}
-- {name: 'Marathon', url: 'hobbies/marathon'}
-- {name: 'Music', url: 'hobbies/music'}
+- {name: 'Soccer', url: '/soccer'}
+- {name: 'Marathon', url: '/marathon'}
+- {name: 'Music', url: '/music'}
 
 
 social:
