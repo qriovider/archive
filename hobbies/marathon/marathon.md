@@ -3,6 +3,4 @@ layout: page
 title: "Marathon"
 ---
 
-## What is marathon?
-
-## The difference between marathon and research
+## 2022.04.17 かすみがうらマラソン
