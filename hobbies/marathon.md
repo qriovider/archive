@@ -3,6 +3,8 @@ layout: page
 title: "Marathon"
 ---
 
-## What is marathon?
+## My question
+### What is the difference between marathon and research?
 
-## The difference between marathon and research
+## 過去のマラソンの記録
+
