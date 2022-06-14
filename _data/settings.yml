@@ -3,7 +3,7 @@ menu:
 - {name: 'Publications', url: '/publications'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Hobbies', url: '/hobbies'}
-- {name: 'Contact', url: '/contact'}
+
 
 about:
 - {name: 'Graduate student', title: 'Graduate student', department: 'Policy & Planning Sciences', institution: 'University of Tsukuba', institution_address: '1-1-1, Tennoudai, Japan', email: 'kazuma.abe.spn[at].gmail.com', image: 'assets/img/picture3.jpg', url: 'graduate-student'}
